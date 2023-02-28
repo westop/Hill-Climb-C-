@@ -12,7 +12,7 @@
 ## Bonus:
 * ✅ Присутствие музыки в игре
 * ✅ Адаптивный интерфейс
-## Встановлення
+## Установка
 ```
 $ git clone https://github.com/westop/Hill-Climb-C-.git
 ```
